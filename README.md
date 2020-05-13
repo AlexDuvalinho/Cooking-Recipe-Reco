@@ -1,5 +1,5 @@
 # Cooking_Recipe_Reco
-Recommendation system for cooking recipes
+### Recommendation system for cooking recipes
 
 This project offers a journey in the world of recommendation systems. It covers various methods known as state of the art 
 - Content Based Filtering
